@@ -38,23 +38,23 @@ There are several variables in the dataset that will have an impact on the outco
 The objective of the analysis is to identify key variables that have an effect on an employee’s salary.The analysis seeks to answer the following questions:
 
 1. What are the organizational metrics for the following demographics within the organization listed below:
-- Sex
-- Race
-- Length of Employment 
+  - Sex
+  - Race
+  - Length of Employment 
 
 2. What is the average salary of the following demographics within the organization listed below:
-- Sex
-- Race
-- Length of Employment 
+  - Sex
+  - Race
+  - Length of Employment 
 
 3. Is there a correlation between length of employment and salary?
 
 ## Analysis 
 
 1. What are the organizational metrics for the following demographics within the organization listed below:
-- Sex
-- Race
-- Length of Employment 
+  - Sex
+  - Race
+  - Length of Employment 
 
 
 In total there 154 employees at the organization, 117 (76%) identify as Female and 37 (24%). Additionally, there are 81 (53%) employees  who identify as African-American, 43 (28%) of employees who identify as White, 27 (18%) who identify as Hispanic/Latinx,  2 (1%) employees  who identify as Asian, and 1(1%) of employees identify as American Indian. 
@@ -65,9 +65,9 @@ Historically, the organization has had a high turnover rate and this indicated i
 
 
 2. What is the average salary of the following demographics within the organization listed below:
-- Sex
-- Race
-- Length of Employment 
+  - Sex
+  - Race
+  - Length of Employment 
 
 The organization has a minimum salary of $11,250 USD and a maximum salary of $175,000 USD. The average salary within the organization is $73,362.42. 
 
