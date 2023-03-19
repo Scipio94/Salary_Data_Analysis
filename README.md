@@ -69,17 +69,21 @@ Historically, the organization has had a high turnover rate and this indicated i
   - Race
   - Length of Employment 
 
-The organization has a minimum salary of $11,250 USD and a maximum salary of $175,000 USD. The average salary within the organization is $73,362.42. 
+The organization has a minimum salary of $11,250 and a maximum salary of $175,000. The average salary within the organization is $73,362.42. 
 
 ![Compensation Histogram](https://user-images.githubusercontent.com/112409778/226191977-8b3e746c-29b1-4f0a-9963-7a5884b91c93.jpg)
 
-However, there is uneven distribution of salaries within the organization. There is a slight right skew of the histogram with outliers that impact the average salary metric.Also, majority of the salaries are above the median. The organization has a median salary of $71,870 USD, and it is a better indicator of the typical salary within the organization. 
+However, there is uneven distribution of salaries within the organization. There is a slight right skew of the histogram with outliers that impact the average salary metric.Also, majority of the salaries are above the median. The organization has a median salary of $71,870, and it is a better indicator of the typical salary within the organization. 
 
 The average salary of males and females is $73,348.25 and $73,366.97 respectively.As it pertains to race, average salary of White employees is $78,035.67, African-American employees have a average salary of $75,659.33, Asian employees have an average salary of  $68,050, Hispanic/Latinx employees have an average salary of $60,654.85, and American Indian employees have an average salary of $56,250.
 
 ![Employee Tier Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192026-59326232-bc6e-4b40-bf14-b80a9dc00ac4.jpg)
 
-Tier 1 employees have an average salary of $69,598.97. However, the histogram above displays a right skew and is indicative there are outliers in the salary distribution of Tier 1 employees.The median salary, $67,870, is a better indication of the typical salary of a Tier 1 employee. Tier 2 employees have an average salary of $79,390.20 and is an accurate indication of the typical salary for Tier 2 employees. 
+Tier 1 employees have an average salary of $69,598.97. However, the histogram above displays a right skew and is indicative there are outliers in the salary distribution of Tier 1 employees.The median salary, $67,870, is a better indication of the typical salary of a Tier 1 employee. 
+
+![Employee Tier  2 Compensation Histogram](https://user-images.githubusercontent.com/112409778/226210348-2a8730ef-e6b5-429b-a97d-ac677a783453.jpg)
+
+Tier 2 employees have an average salary of $79,390.20 , but have a median salary of $86,930.00  indicating a left skew in the distribution of Tier 2 Employee salaries as indicated in the histogram above.
 
 ![Employee Tier 3 Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192069-b48ce58f-df58-4c8e-8400-33299371b4df.jpg)
 
@@ -87,7 +91,7 @@ Tier 3 employees have an average salary of $95,616.42.  As displayed in the hist
 
 ![New Employee Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192101-cbd0b3c5-2a27-4c4b-ac58-bc23a1f9c4d1.jpg)
 
-Additionally, New employees have an average salary of $69,681.96 . There are some outliers that are inflating the average salary of the New Employees and the median salary, $65,450 USD, is a better indication of the typical salary of New Employees. The distribution of Returning Salaries is slightly more uniform and the average salary,$75,184.06,is indicative of the typical salary of a Returning Employee.
+Additionally, New employees have an average salary of $69,681.96 . There are some outliers that are inflating the average salary of the New Employees and the median salary, $65,450, is a better indication of the typical salary of New Employees. The distribution of Returning Salaries is slightly more uniform and the average salary,$75,184.06,is indicative of the typical salary of a Returning Employee.
 
 3. Is there a correlation between length of employment and salary?
 
