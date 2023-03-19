@@ -83,7 +83,7 @@ Tier 1 employees have an average salary of $69,598.97. However, the histogram ab
 
 ![Employee Tier  2 Compensation Histogram](https://user-images.githubusercontent.com/112409778/226210348-2a8730ef-e6b5-429b-a97d-ac677a783453.jpg)
 
-Tier 2 employees have an average salary of $79,390.20 , but have a median salary of $86,930.00  indicating a left skew in the distribution of Tier 2 Employee salaries as indicated in the histogram above.
+Tier 2 employees have an average salary of $79,390.20 , but have a median salary of $86,930.00  indicating a left skew in the distribution of Tier 2 Employee salaries as indicated in the histogram above.The median salary of Tier 2 employees is a better indication of a typical salary within the range.
 
 ![Employee Tier 3 Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192069-b48ce58f-df58-4c8e-8400-33299371b4df.jpg)
 
