@@ -101,5 +101,5 @@ In the previous analysis there appears to be a positive correlation between the 
 
 ## Conclusion
 
-There is no correlation between length of employment and employee salary and it is possible that the lack of equitable compensation practices is the primary cause of high employment turnover. Despite the company recently completing a compensation audit, I recommend another one with the intention to make compensation and length of employment uniform. Additionally, I recommend using performance bonuses and other incentives, e.g. hybrid roles, to boost retention as well. 
+There is no correlation between length of employment and employee salary and it is possible that the lack of equitable compensation practices is the primary cause of high employment turnover. Despite the company recently completing a compensation audit, I recommend another compensation audit with the intention to make compensation and length of employment correlate. Additionally, I recommend using performance bonuses and other incentives, e.g. hybrid roles, to boost retention of employees as well. 
 
