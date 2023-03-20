@@ -57,7 +57,7 @@ The objective of the analysis is to identify key variables that have an effect o
   - Length of Employment 
 
 
-In total there 154 employees at the organization, 117 (76%) identify as Female and 37 (24%). Additionally, there are 81 (53%) employees  who identify as African-American, 43 (28%) of employees who identify as White, 27 (18%) who identify as Hispanic/Latinx,  2 (1%) employees  who identify as Asian, and 1(1%) of employees identify as American Indian. 
+In total there 154 employees at the organization, 117 (76%) identify as Female and 37 (24%) identify as Male. Additionally, there are 81 (53%) employees  who identify as African-American, 43 (28%) of employees who identify as White, 27 (18%) who identify as Hispanic/Latinx,  2 (1%) employees  who identify as Asian, and 1(1%) of employees identify as American Indian. 
 
 ![Length of Employment Histogram](https://user-images.githubusercontent.com/112409778/226191881-df8a004d-7195-42c1-aaff-7a569fcbfcc5.jpg)
 
