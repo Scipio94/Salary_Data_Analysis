@@ -38,6 +38,35 @@ ORDER BY AVG_Salary_Sex DESC ;
 |F|73366.97|72875|73362.42|71870|
 |M|73348.25|67870|73362.42|71870|
 
+~~~ SQL
+/*Salary Distribution*/
+SELECT 
+  TRUNC(StaffCompensationTotalSalary, -4) AS Bins,
+  COUNT(*) AS Count
+ FROM `single-being-353600.Financial_Dataset.Staff_Salary_Data` 
+ WHERE StaffCompensationTotalSalary IS NOT NULL
+ GROUP BY Bins
+ ORDER BY Bins;
+~~~
+
+**Result**
+|Salary_Bins|Count|
+|---|---|
+|10000.0|3|
+|20000.0|3|
+|30000.0|9|
+|40000.0|9|
+|50000.0|20|
+|60000.0|24|
+|70000.0|19|
+|80000.0|21|
+|90000.0|26|
+|100000.0|6|
+|110000.0|2|
+|120000.0|1|
+|130000.0|2|
+|140000.0|1|
+|170000.0|2|
 
 ~~~ SQL 
 /*Organizational Demographics Metrics - Average Salary Race*/
