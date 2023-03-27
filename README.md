@@ -97,11 +97,11 @@ Additionally, New employees have an average salary of $69,681.96 . There are som
 
 ![Length of Employment Scatter Plot - Length of Employment and Salary](https://user-images.githubusercontent.com/112409778/226192194-682549d8-2ab5-4cb9-8f6f-68ea5142ce1b.jpg)
 
-In the previous analysis there appears to be a positive correlation between the length of time an employee has been employed at the organization and the average salary. However, the inverse is true, there is no correlation. The correlation coefficient for the employment length and compensation is approximately 0.30, well below 0.9 which is needed to establish a strong positive correlation between two variables and closer to 0 indicating a neutral slope. This is also evident in the line of best fit.
+In the previous analysis there appears to be a strong positive correlation between the length of time an employee has been employed at the organization and the average salary. However, there is only a low correlation. The correlation coefficient for the employment length and compensation is approximately 0.30, well below 0.90 which is needed to establish a strong positive correlation between two variables. The line of best fit also indicates a slightly positive correlative relationship between the two variables, length of employment and compensation.
 
 ## Conclusion
 
-There is no correlation between length of employment and employee salary and it is possible that the lack of equitable compensation practices is the primary cause of high employment turnover. Despite the company recently completing a compensation audit, I recommend another compensation audit with the intention to make compensation and length of employment correlate. Additionally, I recommend using performance bonuses and other incentives, e.g. hybrid roles, to boost retention of employees as well. 
+There is a low correlation between length of employment and employee salary and it is possible that the lack of equitable compensation practices is the primary cause of high employment turnover. Despite the company recently completing a compensation audit, I recommend another compensation audit with the intention to make compensation and length of employment correlate. Additionally, I recommend using performance bonuses and other incentives, e.g. hybrid roles, to boost retention of employees as well. 
 
 ## Data Repository 
 
