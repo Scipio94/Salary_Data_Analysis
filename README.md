@@ -79,7 +79,8 @@ The average salary of males and females is $73,348.25 and $73,366.97 respectivel
 
 ![Employee Tier Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192026-59326232-bc6e-4b40-bf14-b80a9dc00ac4.jpg)
 
-Tier 1 employees have an average salary of $69,598.97. However, the histogram above displays a right skew and is indicative there are outliers in the salary distribution of Tier 1 employees.The median salary, $67,870, is a better indication of the typical salary of a Tier 1 employee. 
+Tier 1 employees have an average salary of $69,598.97. However, the histogram above displays a right skew and is indicative there are outliers in the salary distribution of Tier 1 employees.The median salary, $67,870, is a better indication of the typical salary of a Tier 1 employee. In addition to the right skew of the histogram the bimodal element of the distribution of salaries is in relation to the race and sex  of the employees in the organization.
+
 
 ![Employee Tier  2 Compensation Histogram](https://user-images.githubusercontent.com/112409778/226210348-2a8730ef-e6b5-429b-a97d-ac677a783453.jpg)
 
@@ -91,7 +92,12 @@ Tier 3 employees have an average salary of $95,616.42.  As displayed in the hist
 
 ![New Employee Compensation Histogram](https://user-images.githubusercontent.com/112409778/226192101-cbd0b3c5-2a27-4c4b-ac58-bc23a1f9c4d1.jpg)
 
-Additionally, New employees have an average salary of $69,681.96 . There are some outliers that are inflating the average salary of the New Employees and the median salary, $65,450, is a better indication of the typical salary of New Employees. The distribution of Returning Salaries is slightly more uniform and the average salary,$75,184.06,is indicative of the typical salary of a Returning Employee.
+Additionally, New employees have an average salary of $69,681.96 . There are some outliers that are inflating the average salary of the New Employees and the median salary, $65,450, is a better indication of the typical salary of New Employees.In addition to the right skew of the histogram the bimodal element of the distribution of salaries is in relation to the race and sex  of the employees in the organization.
+
+![New or Returning Salary Histogram](https://user-images.githubusercontent.com/112409778/228632847-ceca3249-0986-4184-9f49-3066c0d0bc46.jpg)
+
+The distribution of Returning Salaries is slightly more uniform and the average salary,$75,184.06,is indicative of the typical salary of a Returning Employee. In addition to the right skew of the histogram the bimodal element of the distribution of salaries is in relation to the race and sex  of the employees in the organization.
+
 
 3. Is there a correlation between length of employment and salary?
 
@@ -106,3 +112,5 @@ There is a low correlation between length of employment and employee salary and 
 ## Data Repository 
 
 - Access Tableau Workbook [HERE](https://public.tableau.com/views/SalaryDataProjectViz/SalaryDataProjectStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+- Access Slide Deck [HERE](https://docs.google.com/presentation/d/1An4AQPcgz9W86sf5JKFdPyepOI7PA2IP3qnwkDZtGTk/edit?usp=sharing)
