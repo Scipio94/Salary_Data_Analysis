@@ -73,7 +73,7 @@ The organization has a minimum salary of $11,250 and a maximum salary of $175,00
 
 ![Compensation Histogram](https://user-images.githubusercontent.com/112409778/226191977-8b3e746c-29b1-4f0a-9963-7a5884b91c93.jpg)
 
-However, there is uneven distribution of salaries within the organization. There is a slight right skew of the histogram with outliers that impact the average salary metric.Also, majority of the salaries are above the median. The organization has a median salary of $71,870, and it is a better indicator of the typical salary within the organization. 
+However, there is uneven distribution of salaries within the organization. There is a slight right skew of the histogram with outliers that impact the average salary metric. The organization has a median salary of $71,870, and it is a better indicator of the typical salary within the organization. 
 
 The average salary of males and females is $73,348.25 and $73,366.97 respectively.As it pertains to race, average salary of White employees is $78,035.67, African-American employees have a average salary of $75,659.33, Asian employees have an average salary of  $68,050, Hispanic/Latinx employees have an average salary of $60,654.85, and American Indian employees have an average salary of $56,250.
 
